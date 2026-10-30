@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+// http://www.omdbapi.com/?i=tt3896198&apikey=c34b1a23 - api
+
 import './App.css';
 import Header from './layout/Header';
 import Footer from './layout/Footer';
