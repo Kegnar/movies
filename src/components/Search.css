@@ -1,0 +1,14 @@
+﻿.search{
+    margin: 24px;
+
+}
+.search input{
+    width: 50%;
+    font-size: 24px;
+    border: none;
+    color: gray;
+}
+.search input:focus{
+    outline: none;
+    border-bottom: 1px solid gray;
+}
